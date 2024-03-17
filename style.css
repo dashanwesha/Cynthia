@@ -261,3 +261,64 @@ html, body {
     color: #fff;
     text-decoration: none;
 }
+@media screen and (max-width: 768px){
+    #minicircle{
+        width:5px;
+        height: 5px;
+    }
+    .bounding{
+        opacity: 1;
+    }
+    #main{
+        padding: 10px;
+    }
+    #hero{
+        height: 50vh;
+    }
+    #nav{
+        padding: 10px;
+    }
+    #heading h1{
+        font-size: 5vw;
+    }
+    .blocktext h5 {
+        font-size: 12px;
+    }
+    #chhotiheadings h5 {
+        font-size: 0.8vw; 
+    }
+    #herofooter {
+        padding: 0 1vw; 
+    }
+    #herofooter a {
+        font-size: 14px; 
+    }
+    .circle {
+        width: 20px; 
+        height: 20px;
+    }
+    #second {
+        padding-right: 5vw; 
+        padding-top: 100px;
+    }
+    .elem h1 {
+        font-size: 5vw; 
+    }
+    .elem img {
+        height: 100%; 
+    }
+    #about {
+        padding: 5vw; 
+        padding-left: 20vw;
+    }
+    #textabout h5 {
+        margin-bottom: 5px; 
+    }
+    #textabout p {
+        margin-bottom: 15px; 
+    }
+    #about img {
+        width: 150px; 
+    }
+
+}
